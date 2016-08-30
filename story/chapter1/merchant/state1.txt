@@ -1,0 +1,2 @@
+[Merchant]
+Welcome to my store!

@@ -1,0 +1,26 @@
+[Granny] 
+Thanks to you, all of the lost villagers have returned from the Dark Forest. 
+(mystic)
+I gave him a hand, they should thank me either.
+[Granny]
+Oh yourmys, what you did for us is priceless. You're our hero since that day.
+[Player]
+What happened on that day?
+[Granny]
+Oh, my dear. It was a dark horrible day of our village. The Mystic King, he wanted to exterminate humankind. 
+However, this little Mystics, alongside with Ravi, they defeated the Mystic King and brought peace to the world.
+[Player]
+Who's Ravi?
+[Granny]
+He was legend. He was just like you, came from a strange world and save our world from destruction.
+But then, he disappeared with no reason. No one knows where he went.
+[Player]
+Did you just say he came from another wolrd like me? 
+[Granny]
+Yes, he came from the Earth or that was what he said.
+There was a rumor that the last time people saw him was in Steaming Mountain, the highest volcano on the West of Joensu.
+(mystic)
+The bridge leadding to volcano has been repaired. Let's go there!
+[Granny]
+Oh, please hold on my dear. I have to give you one thing. Here, take this backpack, it is bigger than that leather bag.
+[RECEIVE BACKPACK]

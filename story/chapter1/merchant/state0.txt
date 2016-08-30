@@ -1,0 +1,7 @@
+[Merchant]
+Oh hi!
+You must be the stranger people are talking about.
+We haven't opened yet. Sorry...
+player
+Ok....
+

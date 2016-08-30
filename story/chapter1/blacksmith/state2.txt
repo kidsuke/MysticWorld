@@ -1,0 +1,20 @@
+[BlackSmith]
+Sophie! Where have you been? I was very worried about you
+[Sophie]
+I'm so sorry Dad. I tried to...It will never happen again...;
+[BlackSmith]
+Ok! I'll talk to you later. Now go back inside and let me thank these gentlemen
+I knew that Sophie has gone to Dark Forest. I told her to be careful all the time...
+(player)
+Why do you call it "Dark Forest"?
+[BlackSmith]
+Krei- one of the general the Dark Army , made the forest once a beautiful and lifely place into his stronghold
+People also said that soul of killed Mystics still exist there and continue to haunt the place
+I cannot express how much grateful I am. Let me upgrade your bag!
+[FRABIC BAG UPGRADED TO LEATHER BAG]
+[CAPACITY +1]
+(mystic)
+It's nothing haha
+[BlackSmith]
+I know that you will say so yourmys
+player, you can come to here at anytime if you want to upgrade your stuff

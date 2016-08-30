@@ -1,0 +1,5 @@
+[Monk Parrish]
+You want to know about the legend hero. Not much do I know but since the fight between our hero and the Mystic King, 
+the volcano has erupted unusually. There must be something wrong with it. Please help us to find out.
+By the way, this will help you to discover the Cave.
+[RECEIVE TORCH]

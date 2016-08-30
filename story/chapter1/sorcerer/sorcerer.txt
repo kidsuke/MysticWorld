@@ -1,0 +1,11 @@
+[SORCERER]
+Come here my child
+(Player)
+...
+[Sorcerer]
+Welcome! Welcome! This is the place where the dreams come true
+(Player)
+...
+[Sorcerer]
+After finished clear out an area, you can use quick travel to get to that place
+Now, there is no place available. Maybe another time then

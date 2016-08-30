@@ -1,0 +1,27 @@
+[Crying]
+Mom...Dad...help me...
+[Monster]
+Haha! No one's coming.
+(player)
+...
+(mystic)
+Someone needs help. Let's go!
+Your enemy has appeard. In our world, we fight monsters by solving puzzles and questions.
+Depending on the level of the monster, the number of chances to try varies from 1 to many.
+For example, if the monster is at level 1, you only have 1 chance
+If you fail, the monster will escape and I will lose health
+Succeeding in defeat monsters is important. Some missions or bosses require an amount of monsters that you have to defeat
+Now, let's try with this one!
+
+(player)
+Are you ok?
+[Little girl]
+I'm ok...I guess...
+(mystic)
+What's your name?
+[Little girl]
+Sophie
+(mystic)
+Sounds familiar. Let's take you home.
+
+
